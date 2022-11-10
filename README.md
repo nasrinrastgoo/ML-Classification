@@ -1,4 +1,4 @@
-# data_mining_titanicclassification
+# titanicclassification
 
 Kaggle Competition and data: https://www.kaggle.com/competitions/titanic/overview
 
